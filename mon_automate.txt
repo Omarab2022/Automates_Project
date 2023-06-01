@@ -1,0 +1,14 @@
+5
+A B C D E
+7
+A B a
+A C b
+A D c
+B E d
+C E e
+D E f
+B B g
+1
+1
+A 
+E
